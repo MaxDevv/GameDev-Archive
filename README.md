@@ -180,8 +180,10 @@ Project Link: [https://github.com/MaxDevYt/GameDev-Archive](https://github.com/M
 
 
 
-
-<a href="https://www.buymeacoffee.com/appcraftstudio" target="_blank"><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="300" alt="Buy Me A Coffee" align="center">
+<p align="center">
+<br>
+<a href="https://www.buymeacoffee.com/appcraftstudio" target="_blank"><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="300" alt="Buy Me A Coffee">
+  </p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
