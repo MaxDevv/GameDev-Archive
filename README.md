@@ -184,15 +184,15 @@ Project Link: [https://github.com/MaxDevYt/GameDev-Archive](https://github.com/M
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MaxDevYt/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/MaxDevYt/GameDev-Archive.svg?style=for-the-badge
 [contributors-url]: https://github.com/MaxDevYt/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MaxDevYt/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/MaxDevYt/GameDev-Archive.svg?style=for-the-badge
 [forks-url]: https://github.com/MaxDevYt/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/MaxDevYt/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/MaxDevYt/GameDev-Archive.svg?style=for-the-badge
 [stars-url]: https://github.com/MaxDevYt/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MaxDevYt/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/MaxDevYt/GameDev-Archive.svg?style=for-the-badge
 [issues-url]: https://github.com/MaxDevYt/repo/issues
-[license-shield]: https://img.shields.io/github/license/MaxDevYt/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/MaxDevYt/GameDev-Archive.svg?style=for-the-badge
 [license-url]: https://github.com/MaxDevYt/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/MaxDevYt
