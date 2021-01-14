@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** MaxDevYt, GameDev-Archive, maxdev_, support@maximusadeola.com, project_title, project_description
+*** MaxDevYt, GameDev-Archive, maxdev_, support@maximusadeola.com, GameDev-Archive, The Archive of all the games I ever have and ever will make
 -->
 
 
@@ -36,10 +36,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">GameDev-Archive</h3>
 
   <p align="center">
-    project_description
+    The Archive of all the games I ever have and ever will make
     <br />
     <a href="https://github.com/MaxDevYt/GameDev-Archive"><strong>Explore the docs »</strong></a>
     <br />
@@ -89,7 +89,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`MaxDevYt`, `GameDev-Archive`, `maxdev_`, `support@maximusadeola.com`, `project_title`, `project_description`
+`MaxDevYt`, `GameDev-Archive`, `maxdev_`, `support@maximusadeola.com`, `GameDev-Archive`, `The Archive of all the games I ever have and ever will make`
 
 
 ### Built With
