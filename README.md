@@ -168,16 +168,6 @@ Your Name - [@maxdev_](https://twitter.com/maxdev_) - support@maximusadeola.com
 Project Link: [https://github.com/MaxDevYt/GameDev-Archive](https://github.com/MaxDevYt/GameDev-Archive)
 
 
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
 <p align="center">
 <br>
 <a href="https://www.buymeacoffee.com/maxdev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maxdev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
